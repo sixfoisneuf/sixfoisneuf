@@ -1,3 +1,3 @@
-- 👋 Hi, I’m 0x00-V
+- 👋 Hi, I’m 6x9.
 - 👀 I’m interested in programming and cybersecurity.
 - 🌱 I’m currently learning pentesting.
